@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="673feaac-94f3-45d0-b18b-f3ff4258f0e1" name="Default Changelist" comment="" />
+    <list default="true" id="673feaac-94f3-45d0-b18b-f3ff4258f0e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/tindog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tindog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +19,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="5674f8e1-0abe-4fe8-8ff3-964f34b8ac82" />
   <component name="ProjectId" id="1jFOOxZKOMSAeiFpMc8Nuf1SdY6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,9 +36,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.19.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webpage2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -79,6 +88,13 @@
       <workItem from="1603476147418" duration="5287000" />
       <workItem from="1603482642167" duration="35000" />
       <workItem from="1603482696860" duration="3259000" />
+      <workItem from="1603513709736" duration="35000" />
+      <workItem from="1603690851287" duration="5110000" />
+      <workItem from="1603737208799" duration="4478000" />
+      <workItem from="1603771546635" duration="3791000" />
+      <workItem from="1603819651383" duration="4120000" />
+      <workItem from="1603824952933" duration="2551000" />
+      <workItem from="1603858867831" duration="2332000" />
     </task>
     <servers />
   </component>
@@ -94,22 +110,30 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603474757189" />
-    <state width="1878" height="129" key="GridCell.Tab.0.bottom" timestamp="1603485821908">
+    <state x="2758" y="440" width="244" height="207" key="Github.ShareDialog" timestamp="1603513725333">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="129" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603485821908" />
-    <state width="1878" height="129" key="GridCell.Tab.0.center" timestamp="1603485821908">
+    <state x="2758" y="440" width="244" height="207" key="Github.ShareDialog/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603513725333" />
+    <state x="2629" y="248" width="491" height="590" key="Github.UntrackedFilesDialog" timestamp="1603513731735">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="129" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603485821908" />
-    <state width="1878" height="129" key="GridCell.Tab.0.left" timestamp="1603485821908">
+    <state x="2629" y="248" width="491" height="590" key="Github.UntrackedFilesDialog/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603513731735" />
+    <state width="1878" height="128" key="GridCell.Tab.0.bottom" timestamp="1603824615976">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="129" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603485821908" />
-    <state width="1878" height="129" key="GridCell.Tab.0.right" timestamp="1603485821908">
+    <state width="1878" height="128" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603824615976" />
+    <state width="1878" height="128" key="GridCell.Tab.0.center" timestamp="1603824615976">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="129" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603485821908" />
+    <state width="1878" height="128" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603824615976" />
+    <state width="1878" height="128" key="GridCell.Tab.0.left" timestamp="1603824615975">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="128" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603824615975" />
+    <state width="1878" height="128" key="GridCell.Tab.0.right" timestamp="1603824615976">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="128" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603824615976" />
     <state width="1878" height="129" key="GridCell.Tab.1.bottom" timestamp="1603485821909">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -146,10 +170,14 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2448" y="237" width="824" height="531" key="IDE.errors.dialog/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603474500139" />
-    <state x="2384" y="175" width="1393" height="898" key="SettingsEditor" timestamp="1603482665289">
+    <state x="2447" y="68" width="1393" height="898" key="SettingsEditor" timestamp="1603859724452">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2384" y="175" width="1393" height="898" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603482665289" />
+    <state x="2447" y="68" width="1393" height="898" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603859724452" />
+    <state x="2475" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603861219781">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1603861219781" />
     <state x="2020" y="187" width="1690" height="624" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1603396580953">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
